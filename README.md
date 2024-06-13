@@ -12,7 +12,7 @@ This guide will walk you through the steps needed to set up the project.
 ## Steps
 
 1. **Download the files:**
-   Make sure, to download the environment-file as a .yaml and download the Interactive_AI folder.
+   Make sure to download the environment file as a .yaml and download context\_based\_questions.ipynb file.
 
 2. **Install Anaconda:**
    Download and install Anaconda from [here](https://www.anaconda.com/download/success), search and run the "Anaconda Prompt (miniconda3)" console.
