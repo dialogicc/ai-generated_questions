@@ -66,8 +66,7 @@ This guide will walk you through the steps needed to set up the project.
 
     1. Open the Jupyter Notebook in your preferred environment.
     2. Go through each cell of the notebook and press the "Play" button (▶️) or use the keyboard shortcut "Shift + Enter" to execute the cell.
-    3. When prompted for input (e.g., in quiz questions), enter your answer as a digit and press "Enter".
-    4. Continue this process until all cells in the notebook have been executed.
+    3. When playing "#Cell 7", enter your answer as a digit in the input field and press "Enter".
 
     Make sure to execute each cell in sequence to ensure that all necessary variables and functions are correctly defined.
 
