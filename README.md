@@ -60,10 +60,15 @@ This guide will walk you through the steps needed to set up the project.
 7. **Start working:**
    You can close all the windows including the consoles, just make sure, that Ollama is running in the background.
 
-8. **Run Unity-Project:**
-   Open the Interactive_AI-folder in Unity.
-   
-   You may have to install the correct editor suggested by Unity for the project. If you are using Windows, press 'Switch target', when opening the porject.
+8. **Run the Jupyter-Notebook-Project:**
 
-   Talk to the NPC by pressing 'e' to start and stop the audio-recording.
+To run the Jupyter Notebook project, follow these steps:
+
+1. Open the Jupyter Notebook in your preferred environment.
+2. Go through each cell of the notebook and press the "Play" button (▶️) or use the keyboard shortcut "Shift + Enter" to execute the cell.
+3. When prompted for input (e.g., in quiz questions), enter your answer as a digit and press "Enter".
+4. Continue this process until all cells in the notebook have been executed.
+
+Make sure to execute each cell in sequence to ensure that all necessary variables and functions are correctly defined.
+
    
