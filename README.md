@@ -46,25 +46,14 @@ This guide will walk you through the steps needed to set up the project.
    ollama run gemma:2b
    ```
 
-6. **Adjust Python Path in Script:**
-   Open the script "Interaction" and modify the FileName to match the path to your Conda environment's Python executable. For example:
-
-   *Windows:*
-   ```csharp
-   FileName = @"C:\Users\USERNAME\miniconda3\envs\masterthesis\python.exe", // Path to the Conda environment's Python executable
-   ```
-   *Unix:*
-   ```csharp
-   FileName = "/Users/USERNAME/miniforge3/envs/master/bin/python", // Path to the Conda environment's Python executable
-
-7. **Start working:**
+6. **Start working:**
    You can close all the windows including the consoles, just make sure, that Ollama is running in the background.
 
-8. **Run the Jupyter-Notebook-Project:**
+7. **Run the Jupyter-Notebook-Project:**
 
     To run the Jupyter Notebook project, follow these steps:
-
-    1. Open the Jupyter Notebook in your preferred environment.
+    
+    1. Open the Jupyter Notebook in VS Code and press "Select Kernel" in the upper right corner, then choose "master (Python 3.10.14)". (If you are using the environment for the first time, you may have to press Select Kernel - Select another Kernel...- Python Environments - master (Python 3.10.14))
     2. Go through each cell of the notebook and press the "Play" button (▶️) or use the keyboard shortcut "Shift + Enter" to execute the cell.
     3. When playing "#Cell 7", enter your answer as a digit in the input field and press "Enter".
 
