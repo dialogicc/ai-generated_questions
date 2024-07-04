@@ -59,5 +59,7 @@ This guide will walk you through the steps needed to set up the project.
 
     Make sure to execute each cell in sequence to ensure that all necessary variables and functions are correctly defined.
 
-![Konzept](concept.png)
+
+<img src="concept.png" alt="Concept" width="200"/>
+
    
